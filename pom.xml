@@ -6,12 +6,6 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <parent>
-    <groupId>com.io7m.primogenitor</groupId>
-    <artifactId>com.io7m.primogenitor</artifactId>
-    <version>3.0.0-beta0006</version>
-  </parent>
-
   <groupId>com.io7m.javafx0</groupId>
   <artifactId>com.io7m.javafx0</artifactId>
   <version>0.0.1</version>
@@ -20,10 +14,6 @@
   <name>com.io7m.javafx0</name>
   <description>JavaFX Example</description>
   <url>https://github.com/io7m/javafx0</url>
-
-  <properties>
-    <com.io7m.org.immutables.value.version>2.6.1</com.io7m.org.immutables.value.version>
-  </properties>
 
   <licenses>
     <license>
@@ -145,11 +135,6 @@
             <source>9</source>
             <target>9</target>
             <release>9</release>
-            <annotationProcessorPaths>
-              <groupId>org.immutables</groupId>
-              <artifactId>value</artifactId>
-              <version>${com.io7m.org.immutables.value.version}</version>
-            </annotationProcessorPaths>
           </configuration>
         </plugin>
       </plugins>
