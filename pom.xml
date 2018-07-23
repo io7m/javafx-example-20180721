@@ -13,41 +13,7 @@
   <packaging>jar</packaging>
   <name>com.io7m.javafx0</name>
   <description>JavaFX Example</description>
-  <url>https://github.com/io7m/javafx0</url>
-
-  <licenses>
-    <license>
-      <name>ISC License</name>
-      <url>http://io7m.com/license/isc.txt</url>
-    </license>
-  </licenses>
-
-  <scm>
-    <url>https://github.com/io7m/javafx0</url>
-    <connection>scm:git:https://github.com/io7m/javafx0</connection>
-    <developerConnection>scm:git:https://github.com/io7m/javafx0</developerConnection>
-  </scm>
-
-  <developers>
-    <developer>
-      <id>io7m</id>
-      <name>io7m</name>
-      <email>code@io7m.com</email>
-      <url>http://io7m.com</url>
-    </developer>
-  </developers>
-
-  <issueManagement>
-    <url>http://github.com/io7m/javafx0/issues</url>
-    <system>GitHub Issues</system>
-  </issueManagement>
-
-  <distributionManagement>
-    <repository>
-      <id>sonatype-nexus-staging</id>
-      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
-    </repository>
-  </distributionManagement>
+  <url>https://github.com/io7m/javafx-example-20180721</url>
 
   <dependencies>
     <dependency>
